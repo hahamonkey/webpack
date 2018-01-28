@@ -1,0 +1,15 @@
+/*! 勇者无敌，鬣皮狼 */
+html {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  background-image: url(http://localhost:8001/images/57e276fefe87234f3f3bfb1c270c24ed.jpg);
+  width: 100%;
+  height: 100%;
+}
+
+* {
+  background: #fff;
+}
